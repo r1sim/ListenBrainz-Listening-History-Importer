@@ -1,3 +1,5 @@
+‼️ This is no longer needed. You can now import your spotify listens directly on ListenBrainz: https://github.com/metabrainz/listenbrainz-server/releases/tag/v-2025-08-30.0
+
 # ListenBrainz Listening History Importer
 
 This repository contains scripts to import your listening history from streaming services into ListenBrainz. Currently, only Spotify is supported. The scripts are only for historical data. You won't be able to scrobble in real-time using these scripts.
